@@ -1,5 +1,5 @@
-# 💫 Hi there, I am Vedant Baldwa!
-👋 Hi! I'm Vedant Baldwa, a passionate coder and aspiring software developer with a love for competitive programming and algorithm optimization. Currently focused on Machine Learning, and continuously improving my knowledge in data structures and algorithms.<br><br>🚀 Let's collaborate on innovative projects or brainstorm ways to solve tough coding problems!
+# 👋 Hi there, I am Vedant Baldwa!
+Hi! I'm Vedant Baldwa, a passionate coder and aspiring software developer with a love for competitive programming and algorithm optimization. Currently focused on Machine Learning, and continuously improving my knowledge in data structures and algorithms.<br><br>🚀 Let's collaborate on innovative projects or brainstorm ways to solve tough coding problems!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-baldwa-94b37b2a7/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/VEDANT-BALDWA) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23180095/vedant-baldwa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Vedant_b_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantbaldwa@gmail.com) 
