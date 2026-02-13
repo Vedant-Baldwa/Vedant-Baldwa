@@ -1,4 +1,4 @@
-# 👋 Hi, I am Vedant Baldwa!
+# 👋 Hi, I am Vedant!
 I design and implement practical ML solutions with a focus on NLP, deep learning, and generative AI. I build and deploy machine learning systems and ship reproducible ML experiments end-to-end from dataset design and training to serving and evaluation.  I also stay sharp with competitive programming to keep my algorithmic skills production-ready.
 
  <br>🚀  **Let’s collaborate on applied AI/ML projects or turn research ideas into working demos!**
