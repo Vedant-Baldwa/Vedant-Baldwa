@@ -1,7 +1,34 @@
-# 👋 Hi, I am Vedant!
-I design and implement practical ML solutions with a focus on NLP, deep learning, and generative AI. I build and deploy machine learning systems and ship reproducible ML experiments end-to-end from dataset design and training to serving and evaluation.  I also stay sharp with competitive programming to keep my algorithmic skills production-ready.
+<div align="center">
 
- <br>🚀  **Let’s collaborate on applied AI/ML projects or turn research ideas into working demos!**
+```
+██╗   ██╗███████╗██████╗  █████╗ ███╗   ██╗████████╗
+██║   ██║██╔════╝██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝
+██║   ██║█████╗  ██║  ██║███████║██╔██╗ ██║   ██║   
+╚██╗ ██╔╝██╔══╝  ██║  ██║██╔══██║██║╚██╗██║   ██║   
+ ╚████╔╝ ███████╗██████╔╝██║  ██║██║ ╚████║   ██║   
+  ╚═══╝  ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-baldwa-94b37b2a7/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Vedant_b_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantbaldwa@gmail.com) 
+### *Teaching machines to see, understand, and create.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+LLMs+%7C+RAG+Systems;Agentic+AI+%7C+Multi-Agent+Frameworks;Deep+Learning+%7C+Computer+Vision;)](https://git.io/typing-svg)
+
+</div>
+
+
+
+I'm a **Gen AI & Deep Learning enthusiast**, obsessed with building systems that can reason, retrieve, and generate.
+
+My work sits at the intersection of **LLMs, RAG pipelines, Agentic AI, and Computer Vision** — from architecting multi-agent frameworks to training deep learning models from scratch. I believe the most exciting frontier in AI right now is making models not just *intelligent*, but *autonomous*.
+
+---
+
+
+<div align="center">
+
+### *"The best way to predict the future is to build it, one model at a time."*
+
+**Open to collaborations on GenAI, RAG systems, Agentic AI, and applied DL research.**
+Feel free to reach out → [vedant.baldwa18@gmail.com](mailto:vedant.baldwa18@gmail.com)
+
+</div>
