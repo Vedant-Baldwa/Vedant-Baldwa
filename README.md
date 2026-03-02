@@ -26,7 +26,7 @@ My work sits at the intersection of **LLMs, RAG pipelines, Agentic AI, and Compu
 
 <div align="center">
 
-### *"The best way to predict the future is to build it, one model at a time."*
+### *"The best way to predict the future is to build it."*
 
 **Open to collaborations on GenAI, RAG systems, Agentic AI, and applied DL research.**
 Feel free to reach out → [vedant.baldwa18@gmail.com](mailto:vedant.baldwa18@gmail.com)
