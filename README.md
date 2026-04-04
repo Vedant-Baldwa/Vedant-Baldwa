@@ -16,14 +16,6 @@
 </div>
 
 
-
-I'm a **Gen AI & Deep Learning enthusiast**, obsessed with building systems that can reason, retrieve, and generate.
-
-My work sits at the intersection of **LLMs, RAG pipelines, Agentic AI, and Computer Vision** — from architecting multi-agent frameworks to training deep learning models from scratch. I believe the most exciting frontier in AI right now is making models not just *intelligent*, but *autonomous*.
-
----
-
-
 <div align="center">
 
 ### *"The best way to predict the future is to build it."*
